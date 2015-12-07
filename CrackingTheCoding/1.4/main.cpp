@@ -4,4 +4,16 @@
 *	and that you are given the "true" length of the string. 
 *	(Note: if implementing in Java, please use a character array 
 *	so that you can perform this operation in place.)
-*\
+*/
+
+#include <iostream>
+
+using namespace std;
+
+
+int main(int argc, const char **argv){
+
+	//code
+
+	return 0;
+}
